@@ -1,5 +1,5 @@
 # ==========================================
-# 💎 Amazon Music Clustering – Premium Dashboard (Light Pro UI)
+# 💎 Amazon Music Clustering 
 # ==========================================
 
 import streamlit as st
@@ -207,3 +207,4 @@ st.download_button(
 
 st.markdown("---")
 st.caption("💙 Built with Streamlit Pro | Design inspired by Spotify Analytics UI | Dataset: Amazon Music Single-Genre Artists")
+
