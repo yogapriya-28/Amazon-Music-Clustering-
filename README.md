@@ -68,7 +68,6 @@ Applied PCA (2D) for **visualization**, not for clustering input.
 | Metric               | Purpose                                      |
 |----------------------|---------------------------------------------|
 | Silhouette Score     | Measures cluster cohesion & separation       |
-| Davies-Bouldin Index | Assesses intra- vs inter-cluster similarity |
 | PCA Visuals          | Human-friendly interpretation of clusters   |
 | Heatmaps             | Shows average feature values per cluster    |
 
